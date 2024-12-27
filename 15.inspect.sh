@@ -1,0 +1,1 @@
+docker [OPTIONS] inspect COMMAND
